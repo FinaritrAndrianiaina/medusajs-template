@@ -1,0 +1,20 @@
+
+
+# Verify node version to be 20.x
+node_version=$(node -v)
+if [[ $node_version != v20* ]]; then
+    echo "Node version should be 20.x"
+    exit 1
+fi
+
+# Verify that pnpm is installed and is the correct version
+pnpm_version=$(pnpm -v)
+if [[ $pnpm_version != 8.10.2 ]]; then
+    echo "pnpm version should be 8.10.2"
+    exit 1
+fi
+
+# Install rush
+pnpm install --global @microsoft/rush@5.131.0
+
+rush install
