@@ -363,6 +363,12 @@
     // },
     //
     {
+      "packageName": "@template/toolbox",
+      "projectFolder": "packages/toolbox",
+      "reviewCategory": "production",
+      "tags": ["frontend-team"]
+    },
+    {
       "packageName": "@template/ui-preset",
       "projectFolder": "packages/ui-preset",
       "reviewCategory": "production",

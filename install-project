@@ -1,4 +1,4 @@
-
+#!/bin/sh
 
 # Verify node version to be 20.x
 node_version=$(node -v)

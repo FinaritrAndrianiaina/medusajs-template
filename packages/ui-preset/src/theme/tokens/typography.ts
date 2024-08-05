@@ -55,23 +55,9 @@ export const typography = {
     fontFamily:
       'Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji'
   },
-  '.h1-docs': {
-    fontSize: '2rem',
-    lineHeight: '2.75rem',
-    fontWeight: '500',
-    fontFamily:
-      'Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji'
-  },
   '.txt-compact-large-plus': {
     fontSize: '1rem',
     lineHeight: '1.25rem',
-    fontWeight: '500',
-    fontFamily:
-      'Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji'
-  },
-  '.h2-docs': {
-    fontSize: '1.5rem',
-    lineHeight: '2rem',
     fontWeight: '500',
     fontFamily:
       'Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji'
@@ -107,13 +93,6 @@ export const typography = {
   '.h3-core': {
     fontSize: '0.875rem',
     lineHeight: '1.25rem',
-    fontWeight: '500',
-    fontFamily:
-      'Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji'
-  },
-  '.h3-docs': {
-    fontSize: '1.125rem',
-    lineHeight: '1.75rem',
     fontWeight: '500',
     fontFamily:
       'Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji'
@@ -203,6 +182,27 @@ export const typography = {
       'Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji'
   },
   '.txt-large-plus': {
+    fontSize: '1rem',
+    lineHeight: '1.5rem',
+    fontWeight: '500',
+    fontFamily:
+      'Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji'
+  },
+  '.h1-docs': {
+    fontSize: '1.5rem',
+    lineHeight: '2.25rem',
+    fontWeight: '500',
+    fontFamily:
+      'Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji'
+  },
+  '.h2-docs': {
+    fontSize: '1.125rem',
+    lineHeight: '1.75rem',
+    fontWeight: '500',
+    fontFamily:
+      'Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji'
+  },
+  '.h3-docs': {
     fontSize: '1rem',
     lineHeight: '1.5rem',
     fontWeight: '500',
