@@ -2,6 +2,23 @@
   "name": "@template/ui-preset",
   "entries": [
     {
+      "version": "1.2.0",
+      "tag": "@template/ui-preset_v1.2.0",
+      "date": "Mon, 05 Aug 2024 10:01:16 GMT",
+      "comments": {
+        "minor": [
+          {
+            "comment": "release/test"
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@template/toolbox\" to `0.1.0`"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.1.4",
       "tag": "@template/ui-preset_v1.1.4",
       "date": "Mon, 05 Aug 2024 09:08:47 GMT",
