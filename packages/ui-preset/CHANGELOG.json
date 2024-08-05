@@ -1,0 +1,17 @@
+{
+  "name": "@template/ui-preset",
+  "entries": [
+    {
+      "version": "1.1.4",
+      "tag": "@template/ui-preset_v1.1.4",
+      "date": "Mon, 05 Aug 2024 09:08:47 GMT",
+      "comments": {
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@template/toolbox\" to `0.0.3`"
+          }
+        ]
+      }
+    }
+  ]
+}

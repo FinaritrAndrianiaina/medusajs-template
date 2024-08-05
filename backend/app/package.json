@@ -1,7 +1,7 @@
 {
   "name": "@template/backend-app",
   "version": "0.0.1",
-  "description": "A starter for Medusa projects.",
+  "description": "A starter for Medusa projects to create other medusa projects.",
   "author": "Medusa (https://medusajs.com)",
   "license": "MIT",
   "keywords": [

@@ -366,13 +366,22 @@
       "packageName": "@template/toolbox",
       "projectFolder": "packages/toolbox",
       "reviewCategory": "production",
+      "shouldPublish": true,
       "tags": ["frontend-team"]
     },
     {
       "packageName": "@template/ui-preset",
       "projectFolder": "packages/ui-preset",
       "reviewCategory": "production",
+      "shouldPublish": true,
       "tags": ["frontend-team"]
+    },
+    {
+      "packageName": "@template/backend-app",
+      "projectFolder": "backend/app",
+      "reviewCategory": "production",
+      "shouldPublish": true,
+      "tags": ["backend-team"]
     }
   ]
 }
