@@ -4,5 +4,5 @@
 # if the git commit is not coming from a terminal window that does not need an interactive prompt
 if sh -c ": >/dev/tty" >/dev/null 2>/dev/null; then
     # A /dev/tty is available and usable so delegate to commitizen
-    exec < /dev/tty && common/autoinstallers/conventional-commits/node_modules/.bin/cz --hook || true
+    exec < /dev/tty 1>&0 2>&0 && common/autoinstallers/conventional-commits/node_modules/.bin/cz --hook || true
 fi
