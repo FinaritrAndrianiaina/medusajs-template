@@ -2,6 +2,40 @@
   "name": "@template/ui-preset",
   "entries": [
     {
+      "version": "1.1.6",
+      "tag": "@template/ui-preset_v1.1.6",
+      "date": "Tue, 06 Aug 2024 13:29:20 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "Match version with storefront"
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@template/toolbox\" to `0.0.5`"
+          }
+        ]
+      }
+    },
+    {
+      "version": "1.1.5",
+      "tag": "@template/ui-preset_v1.1.5",
+      "date": "Tue, 06 Aug 2024 13:16:49 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "Match version with storefront"
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@template/toolbox\" to `0.0.4`"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.1.4",
       "tag": "@template/ui-preset_v1.1.4",
       "date": "Mon, 05 Aug 2024 09:08:47 GMT",

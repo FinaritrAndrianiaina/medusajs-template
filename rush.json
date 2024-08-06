@@ -375,6 +375,20 @@
       "reviewCategory": "production",
       "shouldPublish": true,
       "tags": ["frontend-team"]
+    },
+    {
+      "packageName": "@template/backend-app",
+      "projectFolder": "backend/app",
+      "reviewCategory": "production",
+      "shouldPublish": true,
+      "tags": ["backend-team"]
+    },
+    {
+      "packageName": "@template/storefront",
+      "projectFolder": "frontend/storefront",
+      "reviewCategory": "production",
+      "shouldPublish": true,
+      "tags": ["frontend-team"]
     }
   ]
 }

@@ -1,7 +1,6 @@
 {
   "name": "@template/storefront",
   "version": "0.0.1",
-  "private": true,
   "author": "Kasper Fabricius Kristensen <kasper@medusajs.com> & Victor Gerbrands <victor@medusajs.com> (https://www.medusajs.com)",
   "description": "Next.js Starter to be used with Medusa server",
   "keywords": [
@@ -53,7 +52,7 @@
     "@types/lodash": "^4.14.195",
     "@types/node": "17.0.21",
     "@types/pg": "^8.11.0",
-    "@types/react": "^18.2.42",
+    "@types/react": "^18.3.2",
     "@types/react-dom": "^18.2.18",
     "@types/react-instantsearch-dom": "^6.12.3",
     "autoprefixer": "^10.4.2",
