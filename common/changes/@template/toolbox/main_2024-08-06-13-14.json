@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@template/toolbox",
+      "comment": "Match version with storefront",
+      "type": "patch"
+    }
+  ],
+  "packageName": "@template/toolbox"
+}

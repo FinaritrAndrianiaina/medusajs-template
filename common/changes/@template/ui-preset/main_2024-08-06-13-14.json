@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@template/ui-preset",
+      "comment": "Match version with storefront",
+      "type": "patch"
+    }
+  ],
+  "packageName": "@template/ui-preset"
+}
