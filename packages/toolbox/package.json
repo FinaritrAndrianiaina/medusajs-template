@@ -7,7 +7,7 @@
   "bin": "./bin/toolbox.js",
   "scripts": {
     "build": "tsup",
-    "postinstall": "pnpm run build"
+    "postinstall": "npm run build"
   },
   "dependencies": {
     "@svgr/core": "8.0.0",
