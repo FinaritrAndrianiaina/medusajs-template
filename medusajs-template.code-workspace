@@ -1,0 +1,27 @@
+{
+  "folders": [
+    {
+      "name": "🚢 docker",
+      "path": "docker"
+    },
+    // {
+    //   "name": "✨ root",
+    //   "path": "."
+    // },
+    {
+      "name": "🚀 @template/backend-app",
+      "path": "backend/app"
+    },
+    {
+      "name": "🚀 @template/storefront",
+      "path": "frontend/storefront"
+    },
+    {
+      "name": "📦 @template/packages",
+      "path": "packages"
+    }
+  ],
+  "settings": {
+    "git.openRepositoryInParentFolders": "always"
+  }
+}
