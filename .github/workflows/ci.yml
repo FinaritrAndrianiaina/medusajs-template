@@ -18,7 +18,7 @@ jobs:
           email: ${{ github.event.pusher.email }}
       - uses: actions/setup-node@v3
         with:
-          node-version: 16
+          node-version: 20.9.0
       - name: Verify Change Logs
         run: node common/scripts/install-run-rush.js change --verify
       - name: Rush Install
