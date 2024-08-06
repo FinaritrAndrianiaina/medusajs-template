@@ -19,6 +19,10 @@
     {
       "name": "📦 @template/packages",
       "path": "packages"
+    },
+    {
+      "name": "👨‍🔧 action",
+      "path": "./.github"
     }
   ],
   "settings": {
