@@ -108,6 +108,7 @@ common/autoinstallers/*/.npmrc
 # Common toolchain intermediate files
 temp/
 lib/
+!frontend/storefront/**/lib
 lib-amd/
 lib-es6/
 lib-esnext/

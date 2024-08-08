@@ -307,6 +307,9 @@ importers:
       '@types/fs-extra':
         specifier: 11.0.1
         version: 11.0.1
+      '@types/node':
+        specifier: 17.0.21
+        version: 17.0.21
       '@types/react':
         specifier: ^18.3.2
         version: 18.3.3
@@ -335,6 +338,9 @@ importers:
         specifier: ^1.0.6
         version: 1.0.7(tailwindcss@3.4.7)
     devDependencies:
+      '@types/node':
+        specifier: 17.0.21
+        version: 17.0.21
       tailwindcss:
         specifier: ^3.0.23
         version: 3.4.7(ts-node@10.9.2)

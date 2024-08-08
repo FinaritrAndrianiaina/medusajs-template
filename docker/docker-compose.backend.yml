@@ -1,0 +1,17 @@
+version: '3'
+services:
+  backend:
+    build: ../backend/app
+    restart: always
+    environment:
+      DATABASE_URL: postgres://postgres:password@db/medusa-Rsdd?sslmode=disable
+      POSTGRES_URL: postgres://postgres:password@db/medusa-Rsdd?sslmode=disable
+    depends_on:
+      - db
+    ports:
+      - 9000:9000
+
+  db:
+    extends:
+      file: docker-compose.dev.yml
+      service: db
